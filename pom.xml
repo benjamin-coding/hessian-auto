@@ -15,7 +15,7 @@
         <maven.compiler.target>1.8</maven.compiler.target>
         <hessian.version>4.0.60</hessian.version>
         <lombok.version>1.18.12</lombok.version>
-        <spring.version>5.0.6.RELEASE</spring.version>
+        <spring.version>6.0.0</spring.version>
         <slf4j.version>1.7.30</slf4j.version>
     </properties>
 
